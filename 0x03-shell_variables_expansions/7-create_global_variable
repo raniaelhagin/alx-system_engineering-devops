@@ -1,2 +1,2 @@
 #!/bin/bash
-set | grep BEST=School
+BEST="School"
